@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.page-header {
+    background-color: #f72210;
+    height: 110px;
+    width: 2722px;
+    margin-left: 34px;
+    margin-right: -188px;
+}
+
+.main-header {
+    color: white;
+    font-size: 5rem;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.main-container {
+    width: 100%;
+}
+
+.login {
+    font-weight: bold;
+    color: white;
+    margin-right: 30px;
+}
+
+.btn {
+    background: #ffe400;
+    width: 132px;
+    font-size: 17px;
+    font-family: "Roboto Condensed", sans-serif;
+    cursor: pointer;
+}
+
+
+/* weather */
+
+.weather-country {
+    font-weight: bold;
+    color: white;
+}
