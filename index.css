@@ -193,6 +193,7 @@ text-align: center; */
      font-size: 1.1em;
      text-transform: uppercase;
      color: #03030366;
+     margin-top: 42px;
      font-weight: 700;
  }
  
@@ -216,3 +217,32 @@ text-align: center; */
      margin-left: -392px;
      text-transform: uppercase;
  }
+ /* .block {
+     color: #333;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     line-height: 20px;
+     box-sizing: border-box;
+     border: 0 none;
+     list-style: none outside none;
+     outline: 0 none;
+     -webkit-font-smoothing: antialiased;
+     margin: 0;
+     padding: 0;
+     order: 1;
+ }
+ 
+ .content {
+     display: block;
+ }
+ 
+ .h2 a {
+     display: block;
+     color: black;
+     margin-top: 433px;
+     display: inline-block;
+ }
+ 
+ .category a {
+     margin-top: 228px
+ } */
