@@ -294,3 +294,35 @@ text-align: center; */
      display: inline-block;
      text-decoration: none;
  }
+ /* col3 */
+ 
+ .col3 {
+     border: 1px solid purple;
+     margin-left: 944px;
+     height: 444px;
+     margin-top: -1155px;
+ }
+ /* debate */
+ 
+ .block-title a {
+     font-size: 1.1em;
+     text-transform: uppercase;
+     color: #03030366;
+     /* margin-top: 42px; */
+     font-weight: 700;
+     /* margin-left: -12px; */
+ }
+ 
+ .title a {
+     font-size: 1.2em;
+     /* text-transform: uppercase; */
+     color: #03030366;
+     margin-left: 92px;
+ }
+ 
+ .byline {
+     font-size: 1.2em;
+     /* text-transform: uppercase; */
+     color: #03030366;
+     margin-left: 92px;
+ }
